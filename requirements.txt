@@ -1,0 +1,11 @@
+openai
+python-dotenv
+requests
+pillow
+moviepy
+azure-cognitiveservices-speech
+# langchain
+# langchain-openai
+streamlit
+# altair==4.0.0
+# beautifulsoup4

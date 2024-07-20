@@ -1,0 +1,1 @@
+# Intel_competition_2024
